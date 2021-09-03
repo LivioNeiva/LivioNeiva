@@ -1,9 +1,8 @@
 ### Lívio Neiva, sejam bem vindos ao meu gitHub 👋
 
 <!-- comentarios https://www.youtube.com/watch?v=TsaLQAetPLU -->
-**LivioNeiva/LivioNeiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Focos nas atividas:
 
 - 🔭 Hoje eu trabalho com java Srping Boot JPA...
 - 🌱 Estudante de DEVOPS ...
@@ -16,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- link com exemplos https://github.com/anuraghazra/github-readme-stats -->
 <div>
   <a href="https://github.com/LivioNeiva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=livioneiva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livioneiva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
