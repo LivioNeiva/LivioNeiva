@@ -5,7 +5,7 @@ https://www.youtube.com/watch?v=TsaLQAetPLU
 https://github.com/rafaballerini/PerfilGithub
 -->
 
-Focos nas atividas:
+Focos nas atividades:
 
 - 🔭 Hoje eu trabalho com java Srping Boot JPA...
 - 🌱 Estudante de DEVOPS ...
