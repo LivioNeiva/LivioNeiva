@@ -7,7 +7,7 @@ https://github.com/rafaballerini/PerfilGithub
 
 Focos nas atividades:
 
-- 🔭 Atualmente estou trabalho como backend java Srping Boot JPA...
+- 🔭 Atualmente estou exercendo as funções como backend java Srping Boot JPA...
 - 🌱 Estudante de DEVOPS ...
 - 👯 Contate-me no linkdin ...
 - 🤔 Tenho conhecimento em Angular ...
@@ -49,7 +49,7 @@ Focos nas atividades:
   <a href="https://https://www.instagram.com/lsnneiva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<!-- <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> -->
  <a href="https://discord.com/channels/@me/517315893387198475" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:livio_neiva@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:livio_neiva@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/l%C3%ADvio-de-s-neiva-771145143/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/livioneiva/livioneiva/blob/output/github-contribution-grid-snake.svg)
